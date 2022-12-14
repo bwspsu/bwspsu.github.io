@@ -19,6 +19,7 @@ With Autonmous Vehciles being increasingly deployed to public roads, constructio
 
 Project Vision, Mission, Goals, and Objectives
 ------------------------------------------------
+
 Vision – Enable automated vehicles to safely operate in work zones without human intervention.
 
 Mission – Reduce traffic fatalities and increase mobility for all Americans in work zones through automated vehicles.
@@ -39,6 +40,7 @@ Team members
 --------------
 
 * Project PIs 
+
 +---+---+---+---+
 |   |   |   |   |
 +===+===+===+===+
