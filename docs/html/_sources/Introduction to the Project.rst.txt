@@ -41,20 +41,21 @@ Team members
 
 * Project PIs 
 
-+---+---+---+---+
-|   |   |   |   |
-+===+===+===+===+
-|   |   |   |   |
-+---+---+---+---+
++---------------------------------------------------------+---------------------------------------------------------+
+| .. image:: Images/sean_withtitle.jpg
+ : height: 250 px  | .. image:: Images/sean_withtitle.jpg
+ : height: 250 px  |
++=========================================================+=========================================================+
+| .. image:: Images/sean_withtitle.jpg
+ : height: 250 px  | .. image:: Images/sean_withtitle.jpg
+ : height: 250 px  |
++---------------------------------------------------------+---------------------------------------------------------+
 
 
-
-* Students 
-
-
-
-
-
+.. raw:: html
+   <h1 align="center">
+   <img  src="Images/sean_withtitle.jpg" alt="text"></a>
+   </h1>
 
 
 .. _here: https://www.penndot.gov/ProjectAndPrograms/ResearchandTesting/Autonomous%20_Vehicles/Pages/ADS-Demonstration.aspx
